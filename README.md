@@ -1,0 +1,1 @@
+Node(end-device) through wireless(433M) communication with the base station(gate way);
