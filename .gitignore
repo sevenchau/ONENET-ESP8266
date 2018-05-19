@@ -1,0 +1,8 @@
+!.gitignore
+
+/zsi_prj/*
+/zproject/Debug/*
+/zproject/readme.md/*
+/zproject/settings/*
+
+

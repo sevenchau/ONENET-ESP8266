@@ -1,0 +1,27 @@
+## the includes
+```C
+$PROJ_DIR$\
+$PROJ_DIR$\..\
+$PROJ_DIR$\..\utilities_lib
+$PROJ_DIR$\..\app\
+$PROJ_DIR$\..\app\app_utilities
+$PROJ_DIR$\..\app\app_user
+$PROJ_DIR$\..\hal_bsp\hal_stCotexM4\startup\IAR
+$PROJ_DIR$\..\hal_bsp\hal_stCotexM4\STM32F4_HAL_lib\inc
+$PROJ_DIR$\..\hal_bsp\bsp_Utilities
+$PROJ_DIR$\..\hal_bsp\bsp_STMB997
+$PROJ_DIR$\..\hal_bsp\CMSIS
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uC-CPU
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uC-CPU\ARM-Cortex-M4\IAR
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uC-LIB
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uC-LIB\Ports\ARM-Cortex-M4\IAR
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uCOS-III\Ports\ARM-Cortex-M4   
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uCOS-III\Ports\ARM-Cortex-M4\Generic\IAR
+$PROJ_DIR$\..\middleware_os\lib_ucosiii\uCOS-III\Source
+$PROJ_DIR$\..\middleware_os\driver
+$PROJ_DIR$\..\middleware_os\mid_utilities
+$PROJ_DIR$\..\middleware_os\mid_utilities\http
+$PROJ_DIR$\..\middleware_os\mid_utilities\edp
+$PROJ_DIR$\..\middleware_os\mid_utilities\modbus
+$PROJ_DIR$\..\middleware_os\mid_utilities\mqtt
+```
